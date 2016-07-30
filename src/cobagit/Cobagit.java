@@ -19,7 +19,7 @@ JLabel asdf = new JLabel();
         setUndecorated(false);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        asdf.setText("Hi guys");        
+        asdf.setText("Hi guys 1213");        
         getContentPane().add(asdf);
         asdf.setBounds(10, 30, 70, 14);
     }

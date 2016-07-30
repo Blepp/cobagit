@@ -26,11 +26,12 @@ JLabel asdf = new JLabel();
 
     public static void main(String[] args) {
         EventQueue.invokeLater(new Runnable() {
-
+        
             @Override
             public void run() {
                 Cobagit ex = new Cobagit();
                 ex.setVisible(true);
+                System.out.print("hello");
             }
         });
     }

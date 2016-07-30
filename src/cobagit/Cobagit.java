@@ -15,7 +15,7 @@ JLabel asdf = new JLabel();
 
     private void initUI() {
         setTitle("Lul");
-        setSize(300, 600);
+        setSize(500, 600);
         setUndecorated(false);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
